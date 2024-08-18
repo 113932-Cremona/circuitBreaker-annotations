@@ -1,0 +1,2 @@
+# circuitBreaker-annotations
+circuit/restTemp
